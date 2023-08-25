@@ -6,7 +6,7 @@
 </a>
 
 ## My projects
-- 🌐 I’m currently working on [Gamewisher](https://gamewisher.com) [![Fly Deploy](https://github.com/jbigman/games-server/actions/workflows/fly.yml/badge.svg)](https://github.com/jbigman/games-server/actions/workflows/fly.yml) [![Netlify Status](https://api.netlify.com/api/v1/badges/cd0694a8-7c32-4457-b1ff-9f71b11de7bf/deploy-status)](https://app.netlify.com/sites/gaming-paradise/deploys)
+- 🌐 I’m currently working on [Gamewisher.com](https://gamewisher.com) [![Fly Deploy](https://github.com/jbigman/games-server/actions/workflows/fly.yml/badge.svg)](https://github.com/jbigman/games-server/actions/workflows/fly.yml) [![Netlify Status](https://api.netlify.com/api/v1/badges/cd0694a8-7c32-4457-b1ff-9f71b11de7bf/deploy-status)](https://app.netlify.com/sites/gaming-paradise/deploys)
 - 🌱 I work with **MongoDB Database and ReactJS/NextJs frameworks**
 - ⚡ Languages **JavaScript, HTML, CSS, SCSS, Nodejs, Typescript**
 
