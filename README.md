@@ -5,10 +5,10 @@
 <img src="https://github-profile-trophy.vercel.app/?username=jbigman&margin-w=15&margin-h=15e&no-frame=true&title=AncientUser,Joined2020,LongTimeUser,Organizations,OGUser,Pulls,Followers,Commits,Repositories,Issues" alt="jbigman" />
 </a>
 
-## [Gamewisher.com](https://gamewisher.com) [![Fly Deploy](https://github.com/jbigman/games-server/actions/workflows/fly.yml/badge.svg)](https://github.com/jbigman/games-server/actions/workflows/fly.yml) ![Netlify](https://img.shields.io/netlify/cd0694a8-7c32-4457-b1ff-9f71b11de7bf)
-- 🌐 Mobile game community with strnig search engine tools, recommendations and articles.
-- 🌱 I work with **MongoDB Database and ReactJS/NextJs frameworks**
-- ⚡ Languages **JavaScript, HTML, CSS, SCSS, Nodejs, Typescript**
+## I’m currently working on [Gamewisher.com](https://gamewisher.com) 
+- 🌐 Mobile game community with strong search engine tools, recommendations and articles.
+- ⚡ API : **Nodejs and MongoDB Database** [![Fly Deploy](https://github.com/jbigman/games-server/actions/workflows/fly.yml/badge.svg)](https://github.com/jbigman/games-server/actions/workflows/fly.yml)  [![Depfu](https://badges.depfu.com/badges/53c0a10ff9e1cd5b4d9e2c88ff85f1f5/count.svg)](https://depfu.com/repos/github/jbigman/games-front?project_id=39103) 
+- 🌱 Website: **Typescript and ReactJS/NextJs frameworks** ![Netlify](https://img.shields.io/netlify/cd0694a8-7c32-4457-b1ff-9f71b11de7bf) [![Depfu](https://badges.depfu.com/badges/620172509f6a48415865e2e8cf505a34/count.svg)](https://depfu.com/repos/github/jbigman/games-server?project_id=39104)
 
 ## Connect with me
 <a href="https://www.youtube.com/c/tafjeuxmobile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexpgm" height="30" width="40" /></a>
