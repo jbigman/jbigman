@@ -1,8 +1,8 @@
 ## Founder of [Gamewisher.com](https://gamewisher.com) (And full stack developer)
 Mobile game community with strong search engine tools, recommendations and articles. 
 
-- 🔥 API : **Nodejs and MongoDB Database** [![codecov](https://codecov.io/gh/jbigman/games-server/graph/badge.svg?token=UYxhWfqPw7)](https://codecov.io/gh/jbigman/games-server) [![Build & Deploy](https://github.com/jbigman/games-server/actions/workflows/build-deploy.yml/badge.svg)](https://github.com/jbigman/games-server/actions/workflows/build-deploy.yml)  [![Depfu](https://badges.depfu.com/badges/53c0a10ff9e1cd5b4d9e2c88ff85f1f5/overview.svg)](https://depfu.com/repos/github/jbigman/games-front?project_id=39103) 
-- 🌐 Website: **Typescript and ReactJS/NextJs frameworks** [![Netlify](https://img.shields.io/netlify/cd0694a8-7c32-4457-b1ff-9f71b11de7bf?label=Deploy&logo=netlify&logoColor=white)](https://app.netlify.com/sites/gaming-paradise/deploys) [![Depfu](https://badges.depfu.com/badges/620172509f6a48415865e2e8cf505a34/overview.svg)](https://depfu.com/repos/github/jbigman/games-server?project_id=39104)
+- 🔥 API : **Nodejs and MongoDB Database** [![codecov](https://codecov.io/gh/jbigman/games-server/graph/badge.svg?token=UYxhWfqPw7)](https://codecov.io/gh/jbigman/games-server) [![Build & Deploy](https://github.com/jbigman/games-server/actions/workflows/build-deploy.yml/badge.svg)](https://github.com/jbigman/games-server/actions/workflows/build-deploy.yml)  [![Depfu](https://badges.depfu.com/badges/620172509f6a48415865e2e8cf505a34/overview.svg)](https://depfu.com/repos/github/jbigman/games-server?project_id=39103) 
+- 🌐 Website: **Typescript and ReactJS/NextJs frameworks** [![Netlify](https://img.shields.io/netlify/cd0694a8-7c32-4457-b1ff-9f71b11de7bf?label=Deploy&logo=netlify&logoColor=white)](https://app.netlify.com/sites/gaming-paradise/deploys) [![Depfu](https://badges.depfu.com/badges/53c0a10ff9e1cd5b4d9e2c88ff85f1f5/overview.svg)](https://depfu.com/repos/github/jbigman/games-front?project_id=39104)
 
 [![Discord](https://img.shields.io/discord/602450894986018826?logo=discord&logoColor=white&label=Join%20us%20on%20discord)](https://discord.gg/myvqHMaE8x)
 
@@ -12,9 +12,9 @@ Mobile game community with strong search engine tools, recommendations and artic
 I'm also Admin/owner of Last Day on earth french discord community (3000+ members) [![Discord](https://img.shields.io/discord/522074068724219907?logo=discord&logoColor=white&label=Last%20Day%20on%20Earth)](https://discord.gg/JMvuZkz) 
 
 ## Profesional network 🌱
-- <img src="https://komarev.com/ghpvc/?username=jbigman&label=Profile%20views&color=blue&style=flat" alt="jbigman" />
+- ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fjbigman%2Fjbigman.json%3Fshow%3Dunique&logo=github&label=Profile%20views&color=blue)
 - [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/2988788?logo=stackoverflow&label=Stackoverflow%20Reputation&logoColor=white&color=hsl(%2027%20%2C%2090%25%20%2C%2055%25%20))](https://stackoverflow.com/users/2988788/jbigman)
-- [![Static Badge](https://img.shields.io/badge/Linkedin-Full%20Stack%20engineer-blue?logo=linkedin)](https://www.linkedin.com/in/jeremiegambin) 
+- [![Static Badge](https://img.shields.io/badge/Linkedin-Full%20Stack%20engineer-blue?logo=linkedin)](https://www.linkedin.com/in/jeremiegambin)
 
 ## Github Profile Trophy
 <a href="https://github.com/ryo-ma/github-profile-trophy">
