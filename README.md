@@ -1,7 +1,7 @@
 ## Founder of [Gamewisher.com](https://gamewisher.com) (And full stack developer)
 Mobile game community with strong search engine tools, recommendations and articles. 
 
-- 🔥 API : **Nodejs and MongoDB Database** ![Deploy](https://therealsujitk-vercel-badge.vercel.app/?app=games-front) [![codecov](https://codecov.io/gh/jbigman/games-server/graph/badge.svg?token=UYxhWfqPw7)](https://codecov.io/gh/jbigman/games-server) [![Depfu](https://badges.depfu.com/badges/620172509f6a48415865e2e8cf505a34/overview.svg)](https://depfu.com/repos/github/jbigman/games-server?project_id=39103) 
+- 🔥 API : **Nodejs and MongoDB Database** [![codecov](https://codecov.io/gh/jbigman/games-server/graph/badge.svg?token=UYxhWfqPw7)](https://codecov.io/gh/jbigman/games-server) [![Depfu](https://badges.depfu.com/badges/620172509f6a48415865e2e8cf505a34/overview.svg)](https://depfu.com/repos/github/jbigman/games-server?project_id=39103) 
 - 🌐 Website: **Typescript and ReactJS/NextJs frameworks**  [![Vercel Deploy](https://therealsujitk-vercel-badge.vercel.app/?app=games-front-eight)](https://vercel.com/jbigman/games-front/deployments) [![Depfu](https://badges.depfu.com/badges/53c0a10ff9e1cd5b4d9e2c88ff85f1f5/overview.svg)](https://depfu.com/repos/github/jbigman/games-front?project_id=39104)
 
 [![Discord](https://img.shields.io/discord/602450894986018826?logo=discord&logoColor=white&label=Join%20us%20on%20discord)](https://discord.gg/myvqHMaE8x)
