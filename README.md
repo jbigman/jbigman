@@ -25,6 +25,11 @@ Mobile game community with strong search engine tools, recommendations and artic
 
  [Gamewisher.com](https://gamewisher.com) : Search engine for mobile games. (Ts, NestJs, MongoDB, NextJs, Scrapping, Google-Auth)
 
+## My Resume
+ [In french](https://jbigman.github.io/cv-react) using NextJs ([repo](https://github.com/jbigman/cv-react)).
+ 
+ [In english](https://jbigman.github.io/cv-nuxt) using Nuxt ([repo](https://github.com/jbigman/cv-nuxt)).
+ 
 ## Side projects 
 - Content creator, Taf jeux mobile [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZ-I2GgElSi4rwic2WadaSg?style=flat&logo=youtube&logoColor=red&label=Taf%20jeux%20mobile)](https://www.youtube.com/c/tafjeuxmobile) [![Twitch Status](https://img.shields.io/twitch/status/taf_jeux_mobiles?logo=twitch&logoColor=white)](https://www.twitch.tv/taf_jeux_mobiles) [![Discord](https://img.shields.io/discord/759067859800031262?logo=discord&logoColor=white&label=Discord)](https://discord.gg/N7cFzsy) 
 
