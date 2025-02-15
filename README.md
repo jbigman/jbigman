@@ -26,7 +26,7 @@ Mobile game community with strong search engine tools, recommendations and artic
  [Gamewisher.com](https://gamewisher.com) : Search engine for mobile games. (Ts, NestJs, MongoDB, NextJs, Scrapping, Google-Auth)
 
 ## My Resume
- [In french](https://jbigman.github.io/cv-react) using NextJs ([repo](https://github.com/jbigman/cv-react)).
+ [In french](https://jbigman.github.io/cv-nextjs) using NextJs ([repo](https://github.com/jbigman/cv-nextjs)).
  
  [In english](https://jbigman.github.io/cv-nuxt) using Nuxt ([repo](https://github.com/jbigman/cv-nuxt)).
  
