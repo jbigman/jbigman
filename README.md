@@ -4,7 +4,7 @@
 
 After working for several years with peers in Java, C# and JavaScript environments, today, I enjoy working with typescript-oriented stacks within CI/CD Pipelines. 
 
-My latest project, Gamewisher.com being now online, I would like to use my skills on a new full-remote project or in Rennes (France)
+My latest project, Gamewisher.com being now online, I would like to use my skills on a new full-remote project or in Nantes (France)
 
 Resume available on my [personal website](https://jbigman.github.io) or over [LinkedIn](https://www.linkedin.com/in/jeremiegambin)
 
