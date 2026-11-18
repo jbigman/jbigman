@@ -25,7 +25,7 @@ Mobile game community with strong search engine tools, recommendations and artic
 
  [Gamewisher.com](https://gamewisher.com) : Search engine for mobile games. (Ts, NestJs, MongoDB, NextJs, Scrapping, Google-Auth)
  
- [https://annor-atelier.fr](https://annor-atelier.fr) : E-shop for handmade leather goods with online payments and Mondial Relay shipping. (Ts, Medusa, PostgreSQL, Redis, NextJs, Resend, S3)
+ [annor-atelier.fr](https://annor-atelier.fr) : E-shop for handmade leather goods. (Ts, Medusa, PostgreSQL, Redis, NextJs, Resend, S3)
 
 ## My Resume
  [In french](https://jbigman.github.io/cv-nextjs) using NextJs ([repo](https://github.com/jbigman/cv-nextjs)).
