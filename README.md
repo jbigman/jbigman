@@ -27,5 +27,7 @@ All projects are self-hosted on a VPS with Docker & Coolify.
 - [app-store-scraper](https://github.com/facundoolano/aptHub Actions CI and fixed thetests](https://github.com/facundoolano/app-store-scraper/pull/196).
 
 ## Beyond code
-- 🎥 Mobile gaming content creator — [Taf jeux mobile](heuxmobile) on YouTube & Twitch
-- 🛡️ Owner of the French *Last Day on Earth* Discord (3,000+ members) — community management & moderation
+- 🎥 Mobile gaming content creator — Taf jeux mobile
+  [![YouTube](https://img.shields.io/badge/YouTube-Taf%20jeux%20mobile-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/c/tafjeuxmobile) [![Twitch](https://img.shields.io/badge/Twitch-taf__jeux__mobiles-9146FF?logo=twitch&logoColor=white)](https://www.twitch.tv/taf_jeux_mobiles) [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/N7cFzsy)
+- 🛡️ Owner of the French *Last Day on Earth* Discord — community management & moderation
+  [![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FJMvuZkz%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&logo=discord&logoColor=white&label=Last%20Day%20on%20Earth&color=5865F2)](https://discord.gg/JMvuZkz)
