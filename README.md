@@ -1,39 +1,41 @@
-## About me
+## Hi, I'm Jérémie 👋
 
-> *My commitment to customer satisfaction is the key point of all my achievements.*
+Full-stack **TypeScript** developer (NestJS · Next.js · MongoDB · PostgreSQL), 12+ years of experience in Java, C# and JavaScript teams.
+I build, deploy and run my own products end to end — from API design to self-hosted production (Docker, Coolify, CI/CD).
 
-After working for several years with peers in Java, C# and JavaScript environments, today, I enjoy working with typescript-oriented stacks within CI/CD Pipelines. 
+📍 **Open to full-remote positions or on-site in Nantes, France**
+📄 Resume: [French](https://jbigman.github.io/cv-nextjs) · [English](https://jbigman.github.io/cv-nuxt) — same resume built twice, with Next.js and Nuxt ([repo](https://github.com/jbigman/cv-nextjs) / [repo](https://github.com/jbigman/cv-nuxt))
+💼 [LinkedIn](https://www.linkedin.com/in/jeremiegambin) · [Website](https://jbigman.github.io)
 
-My latest project, Gamewisher.com being now online, I would like to use my skills on a new full-remote project or in Nantes (France)
+## Projects
 
-Resume available on my [personal website](https://jbigman.github.io) or over [LinkedIn](https://www.linkedin.com/in/jeremiegambin)
+**[annor-atelier.fr](https://annor-atelier.fr)** — E-sho
+I build, deploy and run my own products end to end — from API design to self-hosted production (Docker, Coolify, CI/CD).
 
-## About [Gamewisher.com](https://gamewisher.com) 
+📍 **Open to full-remote positions or on-site in Nantes, France**
+📄 Resume: [French](https://jbigman.github.io/cv-nextjs) · [English](https://jbigman.github.io/cv-nuxt) — same resume built twice, with Next.js
+and Nuxt ([repo](https://github.com/jbigman/cv-nextjs) /igman/cv-nuxt))
+💼 [LinkedIn](https://www.linkedin.com/in/jeremiegambin) · [Website](https://jbigman.github.io)
 
-Mobile game community with strong search engine tools, recommendations and articles. 
+## Projects
 
-* Founder and full stack developeur 
-  - 🔥 API : **NestJs and MongoDB Database** [![Depfu](https://badges.depfu.com/badges/620172509f6a48415865e2e8cf505a34/overview.svg)](https://depfu.com/repos/github/jbigman/games-server?project_id=39103) 
-  - 🌐 Website: **Typescript and ReactJS/NextJs frameworks** [![Depfu](https://badges.depfu.com/badges/53c0a10ff9e1cd5b4d9e2c88ff85f1f5/overview.svg)](https://depfu.com/repos/github/jbigman/games-front?project_id=39104)
-* Open source contributions 
-  * [google-play-scraper](https://github.com/facundoolano/google-play-scraper) Scrap games from play store.
-  * [app-store-scraper](https://github.com/facundoolano/app-store-scraper) Scrap games from apple store.
-- Discord community [![Discord](https://img.shields.io/discord/602450894986018826?logo=discord&logoColor=white&label=Join%20us%20on%20discord)](https://discord.gg/myvqHMaE8x)
+**[annor-atelier.fr](https://annor-atelier.fr)** — E-shop for handmade leather goods
+`TypeScript` `Medusa.js` `PostgreSQL` `Redis` `Next.js` `Resend` `S3`
 
-## Portfolio
- [LaPetitePouzerie.fr](https://LaPetitePouzerie.fr) : Lodge renting with stripe paiements. (Ts, NestJs, MongoDB, NextJs, Stripe, NodeMailer, Google-Auth)
+**[LaPetitePouzerie.fr](https://lapetitepouzerie.fr)** — Holiday cottage booking with online payments
+`TypeScript` `NestJS` `MongoDB` `Next.js` `Stripe` `Node
 
- [Gamewisher.com](https://gamewisher.com) : Search engine for mobile games. (Ts, NestJs, MongoDB, NextJs, Scrapping, Google-Auth)
- 
- [annor-atelier.fr](https://annor-atelier.fr) : E-shop for handmade leather goods. (Ts, Medusa, PostgreSQL, Redis, NextJs, Resend, S3)
+**[Gamewisher.com](https://gamewisher.com)** — Mobile gaions and community (founder & sole developer)
+`TypeScript` `NestJS` `MongoDB` `Next.js` `Scraping` `Google Auth`
+- 13,000+ games indexed from Google Play and the App Sto
+- [Discord community](https://discord.gg/myvqHMaE8x)
 
-## My Resume
- [In french](https://jbigman.github.io/cv-nextjs) using NextJs ([repo](https://github.com/jbigman/cv-nextjs)).
- 
- [In english](https://jbigman.github.io/cv-nuxt) using Nuxt ([repo](https://github.com/jbigman/cv-nuxt)).
- 
-## Side projects 
-- Content creator, Taf jeux mobile [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZ-I2GgElSi4rwic2WadaSg?style=flat&logo=youtube&logoColor=red&label=Taf%20jeux%20mobile)](https://www.youtube.com/c/tafjeuxmobile) [![Twitch Status](https://img.shields.io/twitch/status/taf_jeux_mobiles?logo=twitch&logoColor=white)](https://www.twitch.tv/taf_jeux_mobiles) [![Discord](https://img.shields.io/discord/759067859800031262?logo=discord&logoColor=white&label=Discord)](https://discord.gg/N7cFzsy) 
+All projects are self-hosted on a VPS with Docker & Coolify.
 
-- Admin/owner of Last Day on earth french discord community (3000+ members) [![Discord](https://img.shields.io/discord/522074068724219907?logo=discord&logoColor=white&label=Last%20Day%20on%20Earth)](https://discord.gg/JMvuZkz) 
+## Open source
+- [google-play-scraper](https://github.com/facundoolano/google-play-scraper) — Led the [ESM migration](https://github.com/facundoolano/google-play-scraper/pull/651), [added new app fields](https://github.com/facundoolano/google-play-scraper/pull/648) (pre-registration, early access, discounts…) and fixed the test suite (5 merged PRs).
+- [app-store-scraper](https://github.com/facundoolano/app-store-scraper) — [Set up GitHub Actions CI and fixed the tests](https://github.com/facundoolano/app-store-scraper/pull/196).
 
+## Beyond code
+- 🎥 Mobile gaming content creator — [Taf jeux mobile](https://www.youtube.com/c/tafjeuxmobile) on YouTube & Twitch
+- 🛡️ Owner of the French *Last Day on Earth* Discord (3,agement & moderation
