@@ -24,6 +24,8 @@ Mobile game community with strong search engine tools, recommendations and artic
  [LaPetitePouzerie.fr](https://LaPetitePouzerie.fr) : Lodge renting with stripe paiements. (Ts, NestJs, MongoDB, NextJs, Stripe, NodeMailer, Google-Auth)
 
  [Gamewisher.com](https://gamewisher.com) : Search engine for mobile games. (Ts, NestJs, MongoDB, NextJs, Scrapping, Google-Auth)
+ 
+ [https://annor-atelier.fr](https://annor-atelier.fr) : E-shop for handmade leather goods with Stripe payments and Mondial Relay shipping. (Ts, Medusa, PostgreSQL, Redis, NextJs, Stripe, Resend, S3)
 
 ## My Resume
  [In french](https://jbigman.github.io/cv-nextjs) using NextJs ([repo](https://github.com/jbigman/cv-nextjs)).
